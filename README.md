@@ -30,7 +30,7 @@
 
 ## Build
 
-1. Install `[Ubuntu 24.0.X]`.
+1. Install `[Ubuntu 24.1.X]`.
 2. Upload `build.sh` to `/root`.
 3. Run `build.sh` as `root`.
 4. Wait for the build it will prompt with creation of the Admin page.
